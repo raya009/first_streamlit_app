@@ -1,7 +1,7 @@
 import streamlit
 from PIL import Image
 
-image = Image.open('sunrise.jpg')
+image = Image.open('https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg')
 streamlit.image(image, caption='Sunrise by the mountains')
 
 streamlit.title('My Parents New Healthy Diner!!!!')
