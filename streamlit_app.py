@@ -1,8 +1,6 @@
 import streamlit
 from PIL import Image
 [theme]
-base="dark"
-primaryColor="purple"
 backgroundColor="#FFFFFF"
 
 #streamlit.markdown("<h1 style='text-align: center; color: grey;'>RAYA</h1>",unsafe_allow_html=True)
