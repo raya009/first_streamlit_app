@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.header('<img src="https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg" alt="Raya | Privacy &amp; security guide | Mozilla Foundation"/>')
+streamlit.header('https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg')
 
 streamlit.title('My Parents New Healthy Diner!!!!')
 streamlit.header('Breakfast Favorites')
