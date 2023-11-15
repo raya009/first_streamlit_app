@@ -4,7 +4,7 @@ from PIL import Image
 #image = Image.open('https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg')
 #streamlit.image(image, caption='Sunrise by the mountains')
 
-streamlit.title('My Parents New Healthy Diner!!!!')
+streamlit.title('My Parents New Healthy Diner -- HIMNISH !!!!')
 streamlit.header('Breakfast Favorites')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
