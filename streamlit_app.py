@@ -1,5 +1,4 @@
 import streamlit
-from PIL import Image
 [theme]
 backgroundColor="#FFFFFF"
 
