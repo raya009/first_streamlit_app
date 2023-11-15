@@ -5,6 +5,8 @@ from PIL import Image
 #image = Image.open('https://unsplash.com/photos/assorted-sliced-citrus-fruits-on-brown-wooden-chopping-board-1CsaVdwfIew')
 #streamlit.image(image, caption='Sunrise by the mountains')
 streamlit.image("https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg",width=200)
+col1, col2, col3 = st.columns(3)
+col2.image(logo, width=250)
 
 streamlit.title('My Parents New Healthy Diner!!!!')
 streamlit.header('Breakfast Favorites')
