@@ -1,6 +1,8 @@
 import streamlit
+from PIL import Image
 
-streamlit.header('https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg')
+image = Image.open('sunrise.jpg')
+streamlit.image(image, caption='Sunrise by the mountains')
 
 streamlit.title('My Parents New Healthy Diner!!!!')
 streamlit.header('Breakfast Favorites')
