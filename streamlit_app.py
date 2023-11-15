@@ -1,10 +1,5 @@
 import streamlit
-[theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+
 
 #streamlit.markdown("<h1 style='text-align: center; color: grey;'>RAYA</h1>",unsafe_allow_html=True)
 #image = Image.open('https://unsplash.com/photos/assorted-sliced-citrus-fruits-on-brown-wooden-chopping-board-1CsaVdwfIew')
