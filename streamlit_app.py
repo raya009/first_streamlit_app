@@ -1,7 +1,7 @@
 import streamlit
 from PIL import Image
 
-streamlit.markdown("<h1 style='text-align: center; color: grey;'>Big headline</h1>", unsafe_allow_html=True)
+streamlit.markdown("<h1 style='text-align: center; color: grey;'>RAYA</h1>",streamlit.image("https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg",width=200) unsafe_allow_html=True)
 #image = Image.open('https://unsplash.com/photos/assorted-sliced-citrus-fruits-on-brown-wooden-chopping-board-1CsaVdwfIew')
 #streamlit.image(image, caption='Sunrise by the mountains')
 streamlit.image("https://assets.mofoprod.net/network/images/Raya_fbtlwo_FMQwLtk.original.jpg",width=200)
